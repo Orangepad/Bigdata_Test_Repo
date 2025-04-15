@@ -1,8 +1,6 @@
 ---
 <br>
-이미지를 클릭해서 원본 이미지로 크게 확인 가능합니다. 
-<br>
-웹페이지 전체화면을 기준으로 고려하여 작성한 README.md 입니다.
+이미지를 클릭해서 원본 이미지로 크게 확인 가능합니다.
 <br>
 <img src="https://github.com/user-attachments/assets/e12aacbd-a3d9-4ccb-85c5-4cfebac4be66"  width="500" height="621"/>
 <img src="https://github.com/user-attachments/assets/bc7a92cb-fc4b-4c3a-a7d4-4ead9091979a"  width="500" height="621"/>
