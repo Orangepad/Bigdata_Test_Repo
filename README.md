@@ -1,6 +1,6 @@
 ---
 Test for Uploading data to GitHub
-<img src="https://github.com/user-attachments/assets/7dfbc072-b517-4a35-8b08-5eceaa68ccd4"  width="570" height="690"/>
+<img src="https://github.com/user-attachments/assets/7dfbc072-b517-4a35-8b08-5eceaa68ccd4"  width="450" height="300"/>
 ![image](https://github.com/user-attachments/assets/7dfbc072-b517-4a35-8b08-5eceaa68ccd4)
 ![image](https://github.com/user-attachments/assets/f05d90bb-87ff-4c1a-a650-697641e9ce43)
 ![image](https://github.com/user-attachments/assets/e65aa0f0-1636-4b94-a3a2-bdf7d18081da)
